@@ -23,4 +23,4 @@ jupyter notebook
 - Navigate to the course folder
 
 You will need to download some data and put it in the folder called ```Datasets``` at the same level as the Pandas_course repository folder.
-- Execute the notebooks called [Notebooks/Pandas_downloads.ipynb](Pandas_downloads.ipynb) to do that
+- Execute the notebooks called [Pandas_downloads.ipynb](Notebooks/Pandas_downloads.ipynb) to do that
