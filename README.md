@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guiwitz/Pandas_course/master)
+
 # Science IT Support Pandas course 
 
 This is the support material for a course on the Python package Pandas given at Bern University by Guillaume Witz from the Science IT Support team. The material consists of a series of interactive Jupyter notebooks using open data from diverse sources.
