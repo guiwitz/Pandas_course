@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - jupyter_contrib_nbextensions
+  - tqdm
+  - seaborn
