@@ -8,3 +8,6 @@ dependencies:
   - jupyter_contrib_nbextensions
   - tqdm
   - seaborn
+  - pip
+  - pip:
+    - plotnine
